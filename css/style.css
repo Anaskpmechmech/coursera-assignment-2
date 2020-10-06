@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.container-fluid.text-center div p{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:black;
+    font-size:24px;
+    font-weight: bold;
+}
+#beef{
+margin-left:10px;
+margin-right:10px;
+background-color:grey;
+padding: 10px;
+}
+#beef .heading{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+nav a.navbar-brand{
+    color: black;
+    font-size:30px;
+    font-weight: bold;
+    margin-left:20px;
+    
+}
+#desc{
+    margin-bottom: 10px;
+}
+.navbar.navbar-expand-lg{
+    background-color:gray;
+}
+.navbar-toggler{
+    border:2px solid black;
+}
+.collapse.navbar-collapse.text-center{
+    width:100%;
+}
+.navbar.navbar-expand-lg{
+    padding-left:0;
+    padding-right:0;
+    padding-bottom:0;
+}
+.nav-item{
+    border:1px solid black;
+}
+.navbar-toggler{
+    margin-right:20px;
+}
